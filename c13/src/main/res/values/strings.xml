@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">c13</string>
+    <string name="sesac_contact">
+        SeSAC - 웹페이지 : https://ssac.seoul.kr/, 전화번호 : 02-3667-7304, 이메일 : kang93660817@gmail.com
+    </string>
+    <string name="sesac_info">
+        미국 전기차 업체 테슬라 최고경영자(CEO) 일론 머스크가 "테슬라 자동차보다 세상을 더 크게 바꿀 것"이라고 호언한 휴머노이드 로봇(사람과 닮은 로봇)의 시제품이 공개를 앞두고 있다.
+    </string>
+</resources>
