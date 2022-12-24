@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.sgkang.c92-mergeDebugResources-28:/layout/item_main.xml",
+        "source": "com.sgkang.c92-main-31:/layout/item_main.xml"
+    },
+    {
+        "merged": "com.sgkang.c92-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.sgkang.c92-main-31:/layout/activity_main.xml"
+    }
+]
