@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/layout_fragment_two.xml.flat",
+        "source": "com.sgkang.c93-main-31:/layout/fragment_two.xml"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sgkang.c93-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/layout_fragment_one.xml.flat",
+        "source": "com.sgkang.c93-main-31:/layout/fragment_one.xml"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.sgkang.c93-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sgkang.c93-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.sgkang.c93-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sgkang.c93-merged_res-29:/layout_fragment_three.xml.flat",
+        "source": "com.sgkang.c93-main-31:/layout/fragment_three.xml"
+    }
+]
